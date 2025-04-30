@@ -5,4 +5,4 @@ Nesse projeto aprendi conceitos como:
 .Criações de end point's e API'S, 
 .Estruturas de repetição em Java 
 .E utilização do express
-Utilizando requests como GET,PUT,DELETE etc
+Utilizando requests como GET,PUT,DELETE, POST etc

@@ -1,6 +1,6 @@
 # Projeto-tabelas-de-time-em-JAVA
 Não terminado ainda.
 
-Nesse projeto aprendi conceitos como: Criações de end point's, 
+Nesse projeto aprendi conceitos como: Criações de end point's e API'S, 
 estruturas de repetição em json e utilização do express
 Utilizando "tags" como GET,PUT,DELETE

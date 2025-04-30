@@ -3,3 +3,4 @@ Não terminado ainda.
 
 Nesse projeto aprendi conceitos como: Criações de end point's, 
 estruturas de repetição em json e utilização do express
+Utilizando "tags" como GET,PUT,DELETE
